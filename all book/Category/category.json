@@ -1,0 +1,53 @@
+[
+
+    {
+        "cat_img"        :"https://munnamt06.github.io/yourapp/MUNNA%20PRO.jpg",
+        "cat_title"      :"Class 1",
+        "cat_subtitle"   :"BOOK",
+        "serverUrl"      :""
+    },
+
+    {
+        "cat_img"        :"https://munnamt06.github.io/yourapp/MUNNA%20PRO.jpg",
+        "cat_title"      :"Class 2",
+        "cat_subtitle"   :"BOOK",
+        "serverUrl"      :""
+    },
+
+    {
+        "cat_img"        :"https://munnamt06.github.io/yourapp/MUNNA%20PRO.jpg",
+        "cat_title"      :"Class 3",
+        "cat_subtitle"   :"BOOK",
+        "serverUrl"      :""
+    },
+
+    {
+        "cat_img"        :"https://munnamt06.github.io/yourapp/MUNNA%20PRO.jpg",
+        "cat_title"      :"Class 4",
+        "cat_subtitle"   :"BOOK",
+        "serverUrl"      :""
+    },
+
+    {
+        "cat_img"        :"https://munnamt06.github.io/yourapp/MUNNA%20PRO.jpg",
+        "cat_title"      :"Class 5",
+        "cat_subtitle"   :"BOOK",
+        "serverUrl"      :""
+    },
+
+
+    {
+        "cat_img"        :"",
+        "cat_title"      :"",
+        "cat_subtitle"   :"",
+        "serverUrl"      :""
+    },
+
+
+    {
+        "cat_img"        :"",
+        "cat_title"      :"",
+        "cat_subtitle"   :"",
+        "serverUrl"      :""
+    },
+]
